@@ -1,0 +1,22 @@
+{
+  "name": "v2ex-plugin",
+  "version": "1.0.0",
+  "description": "收集 GitHub 上 V2EX 周边应用。排名不分先后。",
+  "main": "v2ex_on_github.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byr-gdp/v2ex-plugin.git"
+  },
+  "author": "byr-gdp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byr-gdp/v2ex-plugin/issues"
+  },
+  "homepage": "https://github.com/byr-gdp/v2ex-plugin#readme",
+  "dependencies": {
+    "request": "^2.67.0"
+  }
+}
