@@ -27,12 +27,12 @@ request({
       // 构造符合 markdown 表格格式的字符串
       var result = "\n# v2ex-plugin\n\n收集 GitHub 上 V2EX 周边应用。排名不分先后。\n\n## 简介\n\n根据编程语言简单分为 Web（HTML、CSS、JavaScript）、iOS（Objective-C、Swift）、Android（Java）、Python、PHP、其他。\n\n默认收集前 100 个（一次请求的最大值），若需自定义，请修该 **count** 并参考 GitHub API 说明 <https://developer.github.com/v3/search/>"
       
-      var s_web = "\n## Web\n\n | Author/RepoName | Description | Link | Star | Fork |\n | :---: | :---: | :---: | :---: | :---: |\n";
-      var s_ios = "\n## iOS\n\n | Author/RepoName | Description | Link | Star | Fork |\n | :---: | :---: | :---: | :---: | :---: |\n" 
-      var s_android = "\n## Android\n\n | Author/RepoName | Description | Link | Star | Fork |\n | :---: | :---: | :---: | :---: | :---: |\n" 
-      var s_python = "\n## Python\n\n | Author/RepoName | Description | Link | Star | Fork |\n | :---: | :---: | :---: | :---: | :---: |\n" 
-      var s_php = "\n## PHP\n\n | Author/RepoName | Description | Link | Star | Fork |\n | :---: | :---: | :---: | :---: | :---: |\n" 
-      var s_other = "\n## Other\n\n | Author/RepoName | Description | Link | Star | Fork |\n | :---: | :---: | :---: | :---: | :---: |\n" 
+      var s_web = "\n## Web\n\n| Author/RepoName | Description | Link | Star | Fork |\n| :---: | :---: | :---: | :---: | :---: |\n";
+      var s_ios = "\n## iOS\n\n| Author/RepoName | Description | Link | Star | Fork |\n| :---: | :---: | :---: | :---: | :---: |\n" 
+      var s_android = "\n## Android\n\n| Author/RepoName | Description | Link | Star | Fork |\n| :---: | :---: | :---: | :---: | :---: |\n" 
+      var s_python = "\n## Python\n\n| Author/RepoName | Description | Link | Star | Fork |\n| :---: | :---: | :---: | :---: | :---: |\n" 
+      var s_php = "\n## PHP\n\n| Author/RepoName | Description | Link | Star | Fork |\n| :---: | :---: | :---: | :---: | :---: |\n" 
+      var s_other = "\n## Other\n\n| Author/RepoName | Description | Link | Star | Fork |\n| :---: | :---: | :---: | :---: | :---: |\n" 
       
       // 需要的信息
       // 1. author/repoName

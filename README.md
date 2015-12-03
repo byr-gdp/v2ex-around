@@ -10,8 +10,8 @@
 默认收集前 100 个（一次请求的最大值），若需自定义，请修该 **count** 并参考 GitHub API 说明 <https://developer.github.com/v3/search/>
 ## Web
 
- | Author/RepoName | Description | Link | Star | Fork |
- | :---: | :---: | :---: | :---: | :---: |
+| Author/RepoName | Description | Link | Star | Fork |
+| :---: | :---: | :---: | :---: | :---: |
 | kokdemo/v2ex.k | Get a better UI of V2EX. | https://github.com/kokdemo/v2ex.k | 105 | 13 |
 | jkeylu/v2ex.ext |  | https://github.com/jkeylu/v2ex.ext | 139 | 15 |
 | sciooga/v2ex-plus | 可能是 v2ex 最好用的扩展 | https://github.com/sciooga/v2ex-plus | 85 | 6 |
@@ -37,8 +37,8 @@
 
 ## iOS
 
- | Author/RepoName | Description | Link | Star | Fork |
- | :---: | :---: | :---: | :---: | :---: |
+| Author/RepoName | Description | Link | Star | Fork |
+| :---: | :---: | :---: | :---: | :---: |
 | singro/v2ex | An iOS client for v2ex.com | https://github.com/singro/v2ex | 1225 | 319 |
 | ellipse43/v2ex | A simple v2ex iOS client | https://github.com/ellipse43/v2ex | 10 | 4 |
 | tuoxie007/v2exmobile | V2EX iPhone Client | https://github.com/tuoxie007/v2exmobile | 116 | 31 |
@@ -65,8 +65,8 @@
 
 ## Android
 
- | Author/RepoName | Description | Link | Star | Fork |
- | :---: | :---: | :---: | :---: | :---: |
+| Author/RepoName | Description | Link | Star | Fork |
+| :---: | :---: | :---: | :---: | :---: |
 | holysin/v2ex | v2ex Android client | https://github.com/holysin/v2ex | 45 | 12 |
 | taoliuh/v2ex | a v2ex android client build with modern design patterns. | https://github.com/taoliuh/v2ex | 42 | 10 |
 | zzhoujay/V2EX | V2EX的Android客户端 | https://github.com/zzhoujay/V2EX | 18 | 8 |
@@ -94,8 +94,8 @@
 
 ## Python
 
- | Author/RepoName | Description | Link | Star | Fork |
- | :---: | :---: | :---: | :---: | :---: |
+| Author/RepoName | Description | Link | Star | Fork |
+| :---: | :---: | :---: | :---: | :---: |
 | livid/v2ex | Community running on Google App Engine | https://github.com/livid/v2ex | 1961 | 389 |
 | isayme/v2ex | V2EX 自动签到 脚本 | https://github.com/isayme/v2ex | 9 | 3 |
 | dbbbit/ninja-search | [Deactived] search engine for v2ex  | https://github.com/dbbbit/ninja-search | 150 | 19 |
@@ -112,8 +112,8 @@
 
 ## PHP
 
- | Author/RepoName | Description | Link | Star | Fork |
- | :---: | :---: | :---: | :---: | :---: |
+| Author/RepoName | Description | Link | Star | Fork |
+| :---: | :---: | :---: | :---: | :---: |
 | smilezino/v2ex | v2ex的自动领取每日登录奖励 | https://github.com/smilezino/v2ex | 31 | 12 |
 | augustyip/v2ex | Drupal module for v2ex. | https://github.com/augustyip/v2ex | 0 | 0 |
 | linyanfang/V2ex | login test | https://github.com/linyanfang/V2ex | 0 | 0 |
@@ -125,8 +125,8 @@
 
 ## Other
 
- | Author/RepoName | Description | Link | Star | Fork |
- | :---: | :---: | :---: | :---: | :---: |
+| Author/RepoName | Description | Link | Star | Fork |
+| :---: | :---: | :---: | :---: | :---: |
 | ochapman/v2ex | www.v2ex.com API | https://github.com/ochapman/v2ex | 10 | 3 |
 | djyde/V2EX-API | V2EX Non-official API list | https://github.com/djyde/V2EX-API | 117 | 22 |
 | greatghoul/sibi | V2EX 撕逼大战 | https://github.com/greatghoul/sibi | 482 | 20 |
