@@ -45,38 +45,38 @@ GitHub API 说明 <https://developer.github.com/v3/search/>
 | darknessomi/V2EX-CSS | v2ex css | https://github.com/darknessomi/V2EX-CSS | 0 | 0 |
 | openroc/or-chrome-extension-v2ex | This extension is to improve the user reading experience of v2ex.com,  the short-key behavior like google reader. | https://github.com/openroc/or-chrome-extension-v2ex | 4 | 0 |
 | reorx/V2EXWitch | Chrome Extension - V2EX Account Switcher & Notifier | https://github.com/reorx/V2EXWitch | 3 | 1 |
-| djyde/V2HOT-CLI | V2EX hot topics command line tool | https://github.com/djyde/V2HOT-CLI | 2 | 0 |
-| zephyru5/Briefness | V2EX CSS THEME | https://github.com/zephyru5/Briefness | 0 | 0 |
 | Mark24Code/EzGuide4ChatZilla | 5min接入V2EX的IRC（ChatZilla的图文向导） | https://github.com/Mark24Code/EzGuide4ChatZilla | 7 | 0 |
 | Denniskevin/v2ex-app | v2ex社区 | https://github.com/Denniskevin/v2ex-app | 1 | 0 |
+| djyde/V2HOT-CLI | V2EX hot topics command line tool | https://github.com/djyde/V2HOT-CLI | 2 | 0 |
+| zephyru5/Briefness | V2EX CSS THEME | https://github.com/zephyru5/Briefness | 0 | 0 |
 | song940/v2ex-api | v2ex api for nodejs . | https://github.com/song940/v2ex-api | 1 | 1 |
-| jsann/v2ex_client | demo | https://github.com/jsann/v2ex_client | 0 | 0 |
 | brucemei/v2ex_css |  | https://github.com/brucemei/v2ex_css | 0 | 0 |
+| jsann/v2ex_client | demo | https://github.com/jsann/v2ex_client | 0 | 0 |
 | Allen-Edelfelt/index-v2ex |  | https://github.com/Allen-Edelfelt/index-v2ex | 0 | 0 |
-| yakiang/V2EX-Preview | A chrome extension for previewing V2EX topic content | https://github.com/yakiang/V2EX-Preview | 0 | 0 |
-| leoleozhu/v2ex-userscript |  | https://github.com/leoleozhu/v2ex-userscript | 0 | 0 |
-| shawjia/node-v2ex | v2ex SDK for Node.js | https://github.com/shawjia/node-v2ex | 0 | 0 |
-| djyde/v2ex-cakeday |  | https://github.com/djyde/v2ex-cakeday | 0 | 0 |
-| ljlon/v2ex-client | V2EX client (Hybrid App), build with ionic | https://github.com/ljlon/v2ex-client | 0 | 0 |
-| byr-gdp/v2ex-plugin | 收集 GitHub 上 V2EX 周边应用 | https://github.com/byr-gdp/v2ex-plugin | 0 | 0 |
 | romotc/v2ex-blocker | A Chrome Extensions that help people block thing they do not want on V2EX. | https://github.com/romotc/v2ex-blocker | 0 | 0 |
 | jShi-git/purple-v2ex | 个性化v2ex浏览界面 | https://github.com/jShi-git/purple-v2ex | 1 | 1 |
 | ejin/v2ex-tools | 每天打开V2EX网站任意页面时自动领取签到的登陆奖励。 | https://github.com/ejin/v2ex-tools | 0 | 0 |
 | darknessomi/V2EX-Auto-check-in | V2EX自动领取每日签到登录奖励 | https://github.com/darknessomi/V2EX-Auto-check-in | 2 | 0 |
+| leoleozhu/v2ex-userscript |  | https://github.com/leoleozhu/v2ex-userscript | 0 | 0 |
+| shawjia/node-v2ex | v2ex SDK for Node.js | https://github.com/shawjia/node-v2ex | 0 | 0 |
+| yakiang/V2EX-Preview | A chrome extension for previewing V2EX topic content | https://github.com/yakiang/V2EX-Preview | 0 | 0 |
+| djyde/v2ex-cakeday |  | https://github.com/djyde/v2ex-cakeday | 0 | 0 |
+| ljlon/v2ex-client | V2EX client (Hybrid App), build with ionic | https://github.com/ljlon/v2ex-client | 0 | 0 |
+| byr-gdp/v2ex-plugin | 收集 GitHub 上 V2EX 周边应用 | https://github.com/byr-gdp/v2ex-plugin | 0 | 0 |
 | tonghuashuai/v2exPlugin | v2ex 回复自动显示楼层 | https://github.com/tonghuashuai/v2exPlugin | 3 | 0 |
 | JackWong025/cdm |  社交网站a website like v2ex.com,but not all. still under buliding now | https://github.com/JackWong025/cdm | 6 | 0 |
-| c4cat/v2Daily | v2ex  每日签到 | https://github.com/c4cat/v2Daily | 0 | 0 |
 | vue2ex/vue2ex | V2EX next meets Vue.js | https://github.com/vue2ex/vue2ex | 0 | 0 |
+| c4cat/v2Daily | v2ex  每日签到 | https://github.com/c4cat/v2Daily | 0 | 0 |
 | winkidney/GameGear | A game community like v2ex. | https://github.com/winkidney/GameGear | 0 | 1 |
-| romotc/V2EX_LinkUnifier | A safari extension that unifies the format of links within V2EX. | https://github.com/romotc/V2EX_LinkUnifier | 0 | 0 |
 | Sg4Dylan/css-4-V2EX |  | https://github.com/Sg4Dylan/css-4-V2EX | 0 | 0 |
+| romotc/V2EX_LinkUnifier | A safari extension that unifies the format of links within V2EX. | https://github.com/romotc/V2EX_LinkUnifier | 0 | 0 |
 | timonwong/v2ex_at_autocomplete | [userscript] Weibo style @ autocomplete (poster and repliers) for v2ex.com | https://github.com/timonwong/v2ex_at_autocomplete | 0 | 0 |
-| TheLoverZ/new-in-v2ex |  | https://github.com/TheLoverZ/new-in-v2ex | 1 | 0 |
+| DelphiQin/V2EX-Show-replies-as-float-layer | 显示某一个被@用户的最近三次回复 | https://github.com/DelphiQin/V2EX-Show-replies-as-float-layer | 2 | 0 |
+| DelphiQin/V2EX-Show-replies-as-float-layer | 显示某一个被@用户的最近三次回复 | https://github.com/DelphiQin/V2EX-Show-replies-as-float-layer | 2 | 0 |
 | liaa/V2EX_t_236860 | null | https://github.com/liaa/V2EX_t_236860 | 0 | 0 |
 | isudox/v2ex-mission-complete | Auto complete the V2EX daily mission | https://github.com/isudox/v2ex-mission-complete | 0 | 0 |
-| TheLoverZ/new-in-v2ex |  | https://github.com/TheLoverZ/new-in-v2ex | 1 | 0 |
-| billwang1990/V2EXProject | React Native开发的V2EX客户端 | https://github.com/billwang1990/V2EXProject | 0 | 0 |
 | Ginhing/V2EXMinus | block topic/reply by rules | https://github.com/Ginhing/V2EXMinus | 0 | 0 |
+| billwang1990/V2EXProject | React Native开发的V2EX客户端 | https://github.com/billwang1990/V2EXProject | 0 | 0 |
 | lydhr/V2EXSort | Sort the articles in descending order of the number of reviews. V2EX.com+Chrome ONLY. | https://github.com/lydhr/V2EXSort | 0 | 0 |
 | doushini/v2exCrawler | 使用Node.js爬取v2ex.com网站，就是一个Node.js爬虫 | https://github.com/doushini/v2exCrawler | 0 | 0 |
 | no13bus/v2exchrome |  | https://github.com/no13bus/v2exchrome | 0 | 0 |
@@ -84,9 +84,9 @@ GitHub API 说明 <https://developer.github.com/v3/search/>
 | napoleon516/SLove | This is a BBS like V2EX. | https://github.com/napoleon516/SLove | 0 | 0 |
 | cyberved/v2ex-ignore-topics.js | v2ex helper script to ignore topics | https://github.com/cyberved/v2ex-ignore-topics.js | 0 | 0 |
 | xream/V2EX-comment-share-plugin | null | https://github.com/xream/V2EX-comment-share-plugin | 0 | 0 |
+| asmcos/cpython_forum | A django forum, V2EX style. Thank Feather.im . | https://github.com/asmcos/cpython_forum | 0 | 1 |
 | egoist/V1EX | A Chrome extension to uglify V2EX and more... | https://github.com/egoist/V1EX | 0 | 0 |
 | egoist/livid | Livid brings V2EX to the command line world. | https://github.com/egoist/livid | 0 | 0 |
-| asmcos/cpython_forum | A django forum, V2EX style. Thank Feather.im . | https://github.com/asmcos/cpython_forum | 0 | 1 |
 | artchen/hexo-theme-fact | A simple and clean Hexo theme. Inspired a lot by V2EX. | https://github.com/artchen/hexo-theme-fact | 0 | 0 |
 
 ## iOS
@@ -130,7 +130,9 @@ GitHub API 说明 <https://developer.github.com/v3/search/>
 | CyonLeu/V2EX_iOS | Basic V2EX API , writting an iOS APP for V2EX in Swift | https://github.com/CyonLeu/V2EX_iOS | 1 | 0 |
 | picasso250/V2EX-iOS |  | https://github.com/picasso250/V2EX-iOS | 0 | 0 |
 | lijy91/V2EX-iOS |  | https://github.com/lijy91/V2EX-iOS | 0 | 0 |
+| jinzhubaofu/react-native-v2ex | a client for v2ex based on react native | https://github.com/jinzhubaofu/react-native-v2ex | 0 | 0 |
 | haohaow/v2ex-iPhone | v2ex网站第三方客户端 | https://github.com/haohaow/v2ex-iPhone | 0 | 0 |
+| jinzhubaofu/react-native-v2ex | a client for v2ex based on react native | https://github.com/jinzhubaofu/react-native-v2ex | 0 | 0 |
 | sixleaves/v2exClient-iOS | v2ex论坛客户端 | https://github.com/sixleaves/v2exClient-iOS | 1 | 0 |
 
 ## Android
@@ -164,14 +166,14 @@ GitHub API 说明 <https://developer.github.com/v3/search/>
 | PeterCxy/VanillaLight | Yet another V2EX Android client | https://github.com/PeterCxy/VanillaLight | 3 | 0 |
 | blackbbc/V2EX-Android-Client | V2EX Android Client using material design | https://github.com/blackbbc/V2EX-Android-Client | 3 | 0 |
 | houskii/V2EX4droid | V2EX for android | https://github.com/houskii/V2EX4droid | 0 | 0 |
-| tuchangwei/v2ex-clone | It is a project which I read the source code(https://github.com/kyze8439690/v2ex-daily-android) and clone it step by step. Just for learning | https://github.com/tuchangwei/v2ex-clone | 0 | 0 |
-| linyh1993/v2ex-android | www.v2ex.com 网站的第三方Android应用，采用rxjava + mvp 模式开发 | https://github.com/linyh1993/v2ex-android | 0 | 1 |
 | xiaoyang2022/v2ex-APP |  | https://github.com/xiaoyang2022/v2ex-APP | 0 | 0 |
+| linyh1993/v2ex-android | www.v2ex.com 网站的第三方Android应用，采用rxjava + mvp 模式开发 | https://github.com/linyh1993/v2ex-android | 0 | 1 |
+| tuchangwei/v2ex-clone | It is a project which I read the source code(https://github.com/kyze8439690/v2ex-daily-android) and clone it step by step. Just for learning | https://github.com/tuchangwei/v2ex-clone | 0 | 0 |
 | CauT/V2EX-Touch | An android app for v2ex.com that provides convenient gesture control. | https://github.com/CauT/V2EX-Touch | 1 | 0 |
 | fan123199/V2ex-simple | An V2ex simple android client | https://github.com/fan123199/V2ex-simple | 0 | 0 |
 | banxi1988/V2EX-geek | A V2EX geek version Android Version | https://github.com/banxi1988/V2EX-geek | 1 | 0 |
-| shellljx/OpenV2ex-android | v2ex第三方android客户端 | https://github.com/shellljx/OpenV2ex-android | 2 | 1 |
 | chowaikong/V2X | A V2EX client for Android | https://github.com/chowaikong/V2X | 0 | 0 |
+| shellljx/OpenV2ex-android | v2ex第三方android客户端 | https://github.com/shellljx/OpenV2ex-android | 2 | 1 |
 | hqlyz/MyV2ex | my test for v2ex api | https://github.com/hqlyz/MyV2ex | 0 | 0 |
 | micookie/v2ex-android-app |  | https://github.com/micookie/v2ex-android-app | 0 | 0 |
 | ccsmzh/V2exFun | an attempt to v2ex android client... | https://github.com/ccsmzh/V2exFun | 0 | 0 |
@@ -204,14 +206,14 @@ GitHub API 说明 <https://developer.github.com/v3/search/>
 | sciooga/v2ex-job-finder | 帮助 V2EXer 更方便的寻找工作 | https://github.com/sciooga/v2ex-job-finder | 5 | 1 |
 | hitigon/woosuko | V2EX(PB) For Woosuko.com | https://github.com/hitigon/woosuko | 3 | 1 |
 | CzBiX/v2ex-server | v2ex-server | https://github.com/CzBiX/v2ex-server | 0 | 0 |
-| wenLiangcan/V2EX.wox | Wox plugin for V2EX | https://github.com/wenLiangcan/V2EX.wox | 0 | 1 |
 | xiaojay/gmgzspider | spider for website http://www.npc.gov.cn/ for project http://v2ex.com/t/38386 | https://github.com/xiaojay/gmgzspider | 5 | 2 |
 | dacapoday/IDicon | 模仿identicon和v2ex默认头像生成脚本，仅使用标准库，生成PNG头像 | https://github.com/dacapoday/IDicon | 9 | 2 |
+| wenLiangcan/V2EX.wox | Wox plugin for V2EX | https://github.com/wenLiangcan/V2EX.wox | 0 | 1 |
 | Best1a/Di | A V2EX-like fourm. | https://github.com/Best1a/Di | 1 | 1 |
 | foreverhy/v2ex_daily | v2ex自动签到 | https://github.com/foreverhy/v2ex_daily | 0 | 0 |
-| quinghui/v2ex.com | Sign in v2ex.com, and take its daily award coins. | https://github.com/quinghui/v2ex.com | 0 | 0 |
-| ieiayaobb/v2ex_push | null | https://github.com/ieiayaobb/v2ex_push | 0 | 0 |
 | byteli/v2ex_signin | v2ex 自动登录领取奖励 | https://github.com/byteli/v2ex_signin | 0 | 0 |
+| ieiayaobb/v2ex_push | null | https://github.com/ieiayaobb/v2ex_push | 0 | 0 |
+| quinghui/v2ex.com | Sign in v2ex.com, and take its daily award coins. | https://github.com/quinghui/v2ex.com | 0 | 0 |
 | no13bus/v2exfriends | 在v2ex上面找到你的好基友 | https://github.com/no13bus/v2exfriends | 0 | 0 |
 | szm0816/v2exjob_spider | A threading web spider :) | https://github.com/szm0816/v2exjob_spider | 0 | 0 |
 | JKme/v2exSign | v2ex自动签到.py | https://github.com/JKme/v2exSign | 0 | 0 |
@@ -259,17 +261,15 @@ GitHub API 说明 <https://developer.github.com/v3/search/>
 | blueset/v2ex-css-editordark | EditorDark, a V2EX custom CSS theme. | https://github.com/blueset/v2ex-css-editordark | 5 | 0 |
 | zyyang/ideaplus | code base for idea plus community. layout/css based on v2ex(https://github.com/livid/v2ex) | https://github.com/zyyang/ideaplus | 3 | 2 |
 | lxzhh/employInfoFromV2ex | employ statistics From V2ex | https://github.com/lxzhh/employInfoFromV2ex | 0 | 0 |
-| xuchunyang/one.el | Take a peek at HN/知乎日报/V2EX/SBBS within Emacs | https://github.com/xuchunyang/one.el | 11 | 1 |
 | unclechen/V2EX-Java-Api | V2ex Java Api | https://github.com/unclechen/V2EX-Java-Api | 0 | 1 |
+| xuchunyang/one.el | Take a peek at HN/知乎日报/V2EX/SBBS within Emacs | https://github.com/xuchunyang/one.el | 11 | 1 |
 | easonhan007/lita-v2ex | Display top 10 hots of v2ex today | https://github.com/easonhan007/lita-v2ex | 0 | 0 |
 | jseanj/v2ex-crawl | fetch the websites of the members of v2ex | https://github.com/jseanj/v2ex-crawl | 0 | 0 |
-| orctt/livid-v2ex | null | https://github.com/orctt/livid-v2ex | 1 | 0 |
-| kindy-hust/v2ex-new- |  | https://github.com/kindy-hust/v2ex-new- | 0 | 0 |
 | sparkrico/v2ex-android |  | https://github.com/sparkrico/v2ex-android | 0 | 0 |
 | v3ex/php_v2ex |  | https://github.com/v3ex/php_v2ex | 1 | 0 |
+| orctt/livid-v2ex | null | https://github.com/orctt/livid-v2ex | 1 | 0 |
+| kindy-hust/v2ex-new- |  | https://github.com/kindy-hust/v2ex-new- | 0 | 0 |
 | smallcolor/V2EX-iOS-App-Design | A new V2EX iOS App UI work. | https://github.com/smallcolor/V2EX-iOS-App-Design | 2 | 0 |
-| leewi9/V2EX-iPhone | V2EX · 分享 · 探索 iPhone客户端 | https://github.com/leewi9/V2EX-iPhone | 1 | 0 |
-| leewi9/V2EX-iPhone | V2EX · 分享 · 探索 iPhone客户端 | https://github.com/leewi9/V2EX-iPhone | 1 | 0 |
 | yohn89/git-hook-v2ex |  | https://github.com/yohn89/git-hook-v2ex | 0 | 0 |
 | maigan/V2EXClient | null | https://github.com/maigan/V2EXClient | 0 | 0 |
 | GalliLiu/v2exjob_spider |  | https://github.com/GalliLiu/v2exjob_spider | 0 | 0 |
