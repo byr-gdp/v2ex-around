@@ -1,7 +1,5 @@
 var request = require("request");
-var fs = require("fs");
-
-// var baseUrl = "https://api.github.com/search/repositories?q=v2ex"
+var fs      = require("fs");
 
 // 查询前100个（1次查询的最大值）,默认根据 score 排序。修改 count 的值可以自定义查询数量
 var count = 100; 
@@ -51,10 +49,10 @@ request({
       }   
       result += s_web + s_ios + s_android + s_python + s_php + s_other;
       console.log("数据写入中...");     
-      fs.writeFile("top100.md", result, function(err) {
+      fs.writeFile("../output/top100.md", result, function(err) {
         if(err) {
           console.log("数据写入失败");
-          return console.eror(err);
+          return console.error(err);
         }
         console.log("数据写入成功！")
         console.log("详见 top100.md");

@@ -93,7 +93,7 @@ request({
                     }
                     data += s_web + s_ios + s_android + s_python + s_php + s_other;
                     console.log("数据写入中...");
-                    fs.writeFile("total.md", data, function(err) {
+                    fs.writeFile("../output/total.md", data, function(err) {
                       if(err) {
                         console.log("数据写入失败");
                         return console.eror(err);
