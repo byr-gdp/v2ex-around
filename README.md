@@ -1,5 +1,5 @@
 
-# v2ex-plugin
+# v2ex-around
 
 收集 GitHub 上 V2EX 周边应用。排名不分先后。
 
