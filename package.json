@@ -1,21 +1,21 @@
 {
-  "name": "v2ex-plugin",
+  "name": "v2ex-around",
   "version": "1.0.0",
   "description": "收集 GitHub 上 V2EX 周边应用。排名不分先后。",
-  "main": "v2ex_on_github.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/byr-gdp/v2ex-plugin.git"
+    "url": "git+https://github.com/byr-gdp/v2ex-around.git"
   },
   "author": "byr-gdp",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/byr-gdp/v2ex-plugin/issues"
+    "url": "https://github.com/byr-gdp/v2ex-around/issues"
   },
-  "homepage": "https://github.com/byr-gdp/v2ex-plugin#readme",
+  "homepage": "https://github.com/byr-gdp/v2ex-around#readme",
   "dependencies": {
     "babel-preset-es2015": "^6.22.0",
     "node-fetch": "^1.6.3",
